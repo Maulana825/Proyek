@@ -20,10 +20,12 @@ Ketiga Copy kode IP yang sudah didapat dari langkah kedua
 
 ![Cuplikan layar 2023-12-25 115544](https://github.com/Maulana825/Proyek/assets/126551424/6c7d40b1-0170-4e76-aa9b-e6af2c17fe9a)
 
+## Setup environment
+
 Ke-empat jalankan streamlit app.py dengan klik link dari output code
 
 ``
-!streamlit run app.py &>/content/logs.txt & npx localtunnel --port 8501 
+!streamlit run dashboard.py &>/content/logs.txt & npx localtunnel --port 8501 
 ``
 
 ![Cuplikan layar 2023-12-25 140833](https://github.com/Maulana825/Proyek/assets/126551424/2c9e29fe-f167-4859-bade-d4e40b46df30)
