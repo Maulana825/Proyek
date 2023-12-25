@@ -1,3 +1,20 @@
+# BIKE SHARING DASHBOARD ✨
+
+Project Akhir Dicoding Belajar Analisis Data dengan Python
+
+## Setup environment
+
+```
+!pip install -q streamlit
+```
+!wget -q -O - ipv4.icanhazip.com
+## Run steamlit app
+
+```
+!streamlit run app.py &>/content/logs.txt & npx localtunnel --port 8501 
+```
+
+
 # Upload file app.py pada file dashboard
 ![Cuplikan layar 2023-12-25 115141](https://github.com/Maulana825/Proyek/assets/126551424/a8f75644-2ecb-43aa-85a5-d83d2b24c3ec)
 # Jalankan semua kode
