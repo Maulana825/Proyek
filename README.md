@@ -10,6 +10,14 @@ conda create --name main-ds python=3.9
 conda activate main-ds
 pip install numpy pandas scipy matplotlib seaborn jupyter streamlit babel
 ```
+List library yang diperlukan
+```
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+import streamlit as st
+```
 
 ## Run steamlit app
 ```
