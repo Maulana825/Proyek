@@ -20,7 +20,7 @@ Ketiga Copy kode IP yang sudah didapat dari langkah kedua
 
 ![Cuplikan layar 2023-12-25 115544](https://github.com/Maulana825/Proyek/assets/126551424/6c7d40b1-0170-4e76-aa9b-e6af2c17fe9a)
 
-## Setup environment
+## Run steamlit app
 
 Ke-empat jalankan streamlit app.py dengan klik link dari output code
 
