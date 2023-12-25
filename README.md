@@ -7,7 +7,10 @@ Project Akhir Dicoding Belajar Analisis Data dengan Python
 ```
 !pip install -q streamlit
 ```
+```
 !wget -q -O - ipv4.icanhazip.com
+```
+
 ## Run steamlit app
 
 ```
