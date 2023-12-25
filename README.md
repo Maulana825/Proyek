@@ -2,7 +2,20 @@
 
 Project Akhir Dicoding Belajar Analisis Data dengan Python
 Dashboard dibuat pada google colaboratory
+
+
 ## Setup environment
+```
+conda create --name main-ds python=3.9
+conda activate main-ds
+pip install numpy pandas scipy matplotlib seaborn jupyter streamlit babel
+```
+
+## Run steamlit app
+```
+streamlit run dashboard.py
+```
+
 Pertama melakukan install library streamlit dan upload app.py sebagai file yang ingin ditampilkan di dashboard (file app.py ada pada folder dashboard)
 ```
 !pip install -q streamlit
@@ -20,7 +33,6 @@ Ketiga Copy kode IP yang sudah didapat dari langkah kedua
 
 ![Cuplikan layar 2023-12-25 115544](https://github.com/Maulana825/Proyek/assets/126551424/6c7d40b1-0170-4e76-aa9b-e6af2c17fe9a)
 
-## Run steamlit app
 
 Ke-empat jalankan streamlit app.py dengan klik link dari output code
 
